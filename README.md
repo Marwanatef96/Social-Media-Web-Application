@@ -52,12 +52,8 @@ Final Project/
 
 ## API Reference
 
-- [Tarmeez Academy API Documentation](https://tarmeezacademy.com/api/v1)
+- [Tarmeez Academy API Documentation](https://documenter.getpostman.com/view/4696539/2s83zjqN3F)
 
-## Screenshots
-
-![Home Page](placeholders/screenshot-home.png)
-*Home page with posts and navigation bar.*
 
 ## License
 
